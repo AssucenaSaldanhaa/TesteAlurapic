@@ -1,0 +1,15 @@
+{
+  "name": "curso_cypress",
+  "version": "1.0.0",
+  "description": " primeiro projeto",
+  "main": "index.js",
+  "devDependencies": {
+    "cypress": "9.1.1",
+    "mochawesome": "^7.1.3"
+  },
+  "scripts": {
+    "test": "npx cypress open"
+  },
+  "author": "Assucena",
+  "license": "ISC"
+}
